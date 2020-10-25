@@ -1,6 +1,6 @@
 /* eslint-disable import/no-extraneous-dependencies */
 const Faker = require("faker");
-
+ 
 module.exports = () => {
   const data = {
             "clases": [
