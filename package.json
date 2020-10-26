@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devoscarmesa/api-fake-mediatecapp.git"
+    "url": "git+https://github.com/devagiloscarmesa/api-fake-mediatecapp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devoscarmesa/api-fake-mediatecapp/issues"
+    "url": "https://github.com/devagiloscarmesa/api-fake-mediatecapp/issues"
   },
-  "homepage": "https://github.com/devoscarmesa/api-fake-mediatecapp#readme",
+  "homepage": "https://github.com/devagiloscarmesa/api-fake-mediatecapp#readme",
   "dependencies": {
     "faker": "^5.1.0",
     "json-server": "^0.16.2",
