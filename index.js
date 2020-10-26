@@ -4,12 +4,19 @@ var fs = require('fs');
 
 var server = jsonServer.create();
 
-// important to do this for now.sh to work
-// https://spectrum.chat/zeit/general/how-do-i-upload-a-file-to-the-tmp-directory~a1548ae0-91b1-42f5-9388-c79673ba09e4
+/**
+ * Los datos son leídos del archivo db.js que están cargados previamente en la aplicación. 
+ * Luego son convertidos en una cadena de texto, para posteriormente ser escritos en un archivo 
+ * temporal que se genera en los servidores de Vercel. 
+ * Es importante aclarar que este archivo es temporal y los datos que se escriban en este, 
+ * es momentáneo. Por ejemplo, cuando se ejecute un POST, los datos escritos solo se podrán ver durante 
+ * unos minutos
+ */
 fs.writeFileSync('/tmp/db.json', JSON.stringify(db()));
 
-// important to have /tmp here otherwise now.sh won't write to file
-// https://stackoverflow.com/questions/43389724/lambda-function-error-erofs-read-only-file-system-open-tmp-test-zip-proc
+/**
+ * El enrutado de la aplicación se lee desde el archivo temporal. 
+ */
 var router = jsonServer.router('/tmp/db.json');
 var middlewares = jsonServer.defaults();
 var port = process.env.PORT || 5000;
