@@ -386,7 +386,14 @@ module.exports = () => {
                     "fecha_creacion": "2020-10-09 02:49:07",
                     "fecha_actualizacion": null
                 }
-            ]
+            ], 
+            "contactanos" : [
+                {
+                    "nombres_apellidos" : "Dago Bustamante", 
+                    "correo" : "dago123@gmail.com", 
+                    "mensaje" : "Cordial saludos, me gustaría conocer sobre el proceso de media técnica y los programas que actualmente ofrecen. Estaré atento, gracias."
+                }
+            ]    
         }
    return data;
 };
