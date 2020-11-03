@@ -391,7 +391,8 @@ module.exports = () => {
                 {
                     "nombres_apellidos" : "Dago Bustamante", 
                     "correo" : "dago123@gmail.com", 
-                    "mensaje" : "Cordial saludos, me gustaría conocer sobre el proceso de media técnica y los programas que actualmente ofrecen. Estaré atento, gracias."
+                    "mensaje" : "Cordial saludos, me gustaría conocer sobre el proceso de media técnica y los programas que actualmente ofrecen. Estaré atento, gracias.", 
+                    "fecha_creacion": "2020-10-09 10:20:05"
                 }
             ]    
         }
