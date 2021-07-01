@@ -1,8 +1,4 @@
-/* eslint-disable import/no-extraneous-dependencies */
-const Faker = require("faker");
- 
-module.exports = () => {
-  const data = {
+{
     "productos":[
         {
             "id": 1,
@@ -135,6 +131,3 @@ module.exports = () => {
         }
     ]
 }
-   return data;
-};
-  
