@@ -133,6 +133,12 @@ module.exports = () => {
             "sabor": "Pasas",
             "imagen": "https://i.imgur.com/mCO47N7.png"
         }
+    ],
+    "usuarios":[
+        {
+            "username": "juancamilo",
+            "password": "amarillo"
+        }
     ]
 }
    return data;
