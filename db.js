@@ -136,8 +136,29 @@ module.exports = () => {
     ],
     "usuarios":[
         {
+            "id": 1,
             "username": "juancamilo",
             "password": "amarillo"
+        },
+        {
+            "id": 2,
+            "username": "jackson",
+            "password": "guerrero"
+        },
+        {
+            "id": 3,
+            "username": "pepe",
+            "password": "perez"
+        },
+        {
+            "id": 4,
+            "username": "jorge",
+            "password": "vega"
+        },
+        {
+            "id": 5,
+            "username": "juan",
+            "password": "velasquez"
         }
     ]
 }
