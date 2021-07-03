@@ -10,7 +10,7 @@ module.exports = () => {
             "precio": 25,
             "categoria": "Guajolotas",
             "nombreCorto": "Verde",
-            "sabor": "Verde",
+            "sabor": "https://i.imgur.com/3AyHYPu.png",
             "imagen": "https://i.imgur.com/d6pZWfx.png"
         },
         {
@@ -19,7 +19,7 @@ module.exports = () => {
             "precio": 25,
             "categoria": "Guajolotas",
             "nombreCorto": "Mole",
-            "sabor": "Mole",
+            "sabor": "https://i.imgur.com/oN0t4nw.png",
             "imagen": "https://i.imgur.com/tyguOVl.png"
         },
         {
@@ -28,7 +28,7 @@ module.exports = () => {
             "precio": 25,
             "categoria": "Guajolotas",
             "nombreCorto": "Guayaba",
-            "sabor": "Guayaba",
+            "sabor": "https://i.imgur.com/GMvWkzv.png",
             "imagen": "https://i.imgur.com/KUmNnBE.png"
         },
         {
@@ -37,7 +37,7 @@ module.exports = () => {
             "precio": 25,
             "categoria": "Guajolotas",
             "nombreCorto": "Piña",
-            "sabor": "Piña",
+            "sabor": "https://i.imgur.com/CEn2bpp.png",
             "imagen": "https://i.imgur.com/LvqTDsV.png"
         },
         {
@@ -46,7 +46,7 @@ module.exports = () => {
             "precio": 25,
             "categoria": "Guajolotas",
             "nombreCorto": "Pasas",
-            "sabor": "Pasas",
+            "sabor": "https://i.imgur.com/J45fALf.png",
             "imagen": "https://i.imgur.com/AWbJ84D.png"
         },
         {
@@ -55,7 +55,7 @@ module.exports = () => {
             "precio": 12,
             "categoria": "Bebidas",
             "nombreCorto": "Champurrado",
-            "sabor": "Champurrado",
+            "sabor": "https://i.imgur.com/8Ozi2d7.png",
             "imagen": "https://i.imgur.com/ponHz9P.png"
         },
         {
@@ -64,7 +64,7 @@ module.exports = () => {
             "precio": 12,
             "categoria": "Bebidas",
             "nombreCorto": "Atole de Arroz",
-            "sabor": "Arroz con Leche",
+            "sabor": "https://i.imgur.com/9sLEWS5.png",
             "imagen": "https://i.imgur.com/agIVB1f.png"
         },
         {
@@ -73,7 +73,7 @@ module.exports = () => {
             "precio": 12,
             "categoria": "Bebidas",
             "nombreCorto": "Chocolate",
-            "sabor": "Chocolate",
+            "sabor": "https://i.imgur.com/uzW5HRg.png",
             "imagen": "https://i.imgur.com/mPDvTzX.png"
         },
         {
@@ -82,7 +82,7 @@ module.exports = () => {
             "precio": 12,
             "categoria": "Bebidas",
             "nombreCorto": "Café Negro",
-            "sabor": "Cafe",
+            "sabor": "https://i.imgur.com/zFdj5zd.png",
             "imagen": "https://i.imgur.com/VCZLFyC.png"
         },
 
@@ -94,7 +94,7 @@ module.exports = () => {
             "precio": 14,
             "categoria": "Tamales",
             "nombreCorto": "Tamal Verde",
-            "sabor": "Verde",
+            "sabor": "https://i.imgur.com/3AyHYPu.png",
             "imagen": "https://i.imgur.com/DXF7NXF.png"
         },
         {
@@ -103,7 +103,7 @@ module.exports = () => {
             "precio": 14,
             "categoria": "Tamales",
             "nombreCorto": "Tamal de Mole",
-            "sabor": "Mole",
+            "sabor": "Mohttps://i.imgur.com/oN0t4nw.pngle",
             "imagen": "https://i.imgur.com/w0PGV4A.png"
         },
         {
@@ -112,7 +112,7 @@ module.exports = () => {
             "precio": 14,
             "categoria": "Tamales",
             "nombreCorto": "Tamal de Guayaba",
-            "sabor": "Guayaba",
+            "sabor": "https://i.imgur.com/GMvWkzv.png",
             "imagen": "https://i.imgur.com/vAW014x.png"
         },
         {
@@ -121,7 +121,7 @@ module.exports = () => {
             "precio": 14,
             "categoria": "Tamales",
             "nombreCorto": "Tamal de Piña",
-            "sabor": "Piña",
+            "sabor": "https://i.imgur.com/CEn2bpp.png",
             "imagen": "https://i.imgur.com/7ll741z.png"
         },
         {
@@ -130,7 +130,7 @@ module.exports = () => {
             "precio": 14,
             "categoria": "Tamales",
             "nombreCorto": "Tamal de Pasas",
-            "sabor": "Pasas",
+            "sabor": "https://i.imgur.com/J45fALf.png",
             "imagen": "https://i.imgur.com/mCO47N7.png"
         }
     ],
