@@ -12,7 +12,8 @@ module.exports = () => {
             "nombreCorto": "Verde",
             "tipoSabor": "tamal",
             "sabor": "Verde",
-            "imagen": "https://i.imgur.com/d6pZWfx.png"
+            "imagen": "https://i.imgur.com/d6pZWfx.png",
+            "cantidad": 0
         },
         {
             "id": 2,
@@ -22,7 +23,8 @@ module.exports = () => {
             "nombreCorto": "Mole",
             "tipoSabor": "tamal",
             "sabor": "Mole",
-            "imagen": "https://i.imgur.com/tyguOVl.png"
+            "imagen": "https://i.imgur.com/tyguOVl.png",
+            "cantidad": 0
         },
         {
             "id": 3,
@@ -32,7 +34,8 @@ module.exports = () => {
             "nombreCorto": "Guayaba",
             "tipoSabor": "tamal",
             "sabor": "Guayaba",
-            "imagen": "https://i.imgur.com/KUmNnBE.png"
+            "imagen": "https://i.imgur.com/KUmNnBE.png",
+            "cantidad": 0
         },
         {
             "id": 4,
@@ -42,7 +45,8 @@ module.exports = () => {
             "nombreCorto": "Piña",
             "tipoSabor": "tamal",
             "sabor": "Piña",
-            "imagen": "https://i.imgur.com/LvqTDsV.png"
+            "imagen": "https://i.imgur.com/LvqTDsV.png",
+            "cantidad": 0
         },
         {
             "id": 5,
@@ -52,7 +56,8 @@ module.exports = () => {
             "nombreCorto": "Pasas",
             "tipoSabor": "tamal",
             "sabor": "Pasas",
-            "imagen": "https://i.imgur.com/AWbJ84D.png"
+            "imagen": "https://i.imgur.com/AWbJ84D.png",
+            "cantidad": 0
         },
         {
             "id": 6,
@@ -62,7 +67,8 @@ module.exports = () => {
             "nombreCorto": "Champurrado",
             "tipoSabor": "bebida",
             "sabor": "Champurrado",
-            "imagen": "https://i.imgur.com/ponHz9P.png"
+            "imagen": "https://i.imgur.com/ponHz9P.png",
+            "cantidad": 0
         },
         {
             "id": 7,
@@ -72,7 +78,8 @@ module.exports = () => {
             "nombreCorto": "Atole de Arroz",
             "tipoSabor": "bebida",
             "sabor": "Arroz con Leche",
-            "imagen": "https://i.imgur.com/agIVB1f.png"
+            "imagen": "https://i.imgur.com/agIVB1f.png",
+            "cantidad": 0
         },
         {
             "id": 8,
@@ -82,7 +89,8 @@ module.exports = () => {
             "nombreCorto": "Chocolate",
             "tipoSabor": "bebida",
             "sabor": "Chocolate",
-            "imagen": "https://i.imgur.com/mPDvTzX.png"
+            "imagen": "https://i.imgur.com/mPDvTzX.png",
+            "cantidad": 0
         },
         {
             "id": 9,
@@ -92,7 +100,8 @@ module.exports = () => {
             "nombreCorto": "Café Negro",
             "tipoSabor": "bebida",
             "sabor": "Cafe",
-            "imagen": "https://i.imgur.com/VCZLFyC.png"
+            "imagen": "https://i.imgur.com/VCZLFyC.png",
+            "cantidad": 0
         },
 
 
@@ -105,7 +114,8 @@ module.exports = () => {
             "nombreCorto": "Tamal Verde",
             "tipoSabor": "tamal",
             "sabor": "Verde",
-            "imagen": "https://i.imgur.com/DXF7NXF.png"
+            "imagen": "https://i.imgur.com/DXF7NXF.png",
+            "cantidad": 0
         },
         {
             "id": 11,
@@ -115,7 +125,8 @@ module.exports = () => {
             "nombreCorto": "Tamal de Mole",
             "tipoSabor": "tamal",
             "sabor": "Mole",
-            "imagen": "https://i.imgur.com/w0PGV4A.png"
+            "imagen": "https://i.imgur.com/w0PGV4A.png",
+            "cantidad": 0
         },
         {
             "id": 12,
@@ -125,7 +136,8 @@ module.exports = () => {
             "nombreCorto": "Tamal de Guayaba",
             "tipoSabor": "tamal",
             "sabor": "Guayaba",
-            "imagen": "https://i.imgur.com/vAW014x.png"
+            "imagen": "https://i.imgur.com/vAW014x.png",
+            "cantidad": 0
         },
         {
             "id": 13,
@@ -135,7 +147,8 @@ module.exports = () => {
             "nombreCorto": "Tamal de Piña",
             "tipoSabor": "tamal",
             "sabor": "Piña",
-            "imagen": "https://i.imgur.com/7ll741z.png"
+            "imagen": "https://i.imgur.com/7ll741z.png",
+            "cantidad": 0
         },
         {
             "id": 14,
@@ -145,7 +158,8 @@ module.exports = () => {
             "nombreCorto": "Tamal de Pasas",
             "tipoSabor": "tamal",
             "sabor": "Pasas",
-            "imagen": "https://i.imgur.com/mCO47N7.png"
+            "imagen": "https://i.imgur.com/mCO47N7.png",
+            "cantidad": 0
         }
     ],
     "sabores":[
