@@ -125,7 +125,7 @@ module.exports = () => {
             "nombreCorto": "Tamal de Mole",
             "tipoSabor": "tamal",
             "sabor": "Mole",
-            "imagen": "https://i.imgur.com/w1PGV4A.png",
+            "imagen": "https://i.imgur.com/w0PGV4A.png",
             "cantidad": 1
         },
         {
@@ -136,7 +136,7 @@ module.exports = () => {
             "nombreCorto": "Tamal de Guayaba",
             "tipoSabor": "tamal",
             "sabor": "Guayaba",
-            "imagen": "https://i.imgur.com/vAW114x.png",
+            "imagen": "https://i.imgur.com/vAW014x.png",
             "cantidad": 1
         },
         {
