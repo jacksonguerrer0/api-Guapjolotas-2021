@@ -166,54 +166,54 @@ module.exports = () => {
         {        
         "tamal": [
             {
-                "id": 1,
+                "id": "t1",
                 "sabor": "Verde",
                 "imagenSabor": "https://i.imgur.com/3AyHYPu.png"
             },
             {
-                "id": 2,
+                "id": "t2",
                 "sabor": "Mole",
                 "imagenSabor": "https://i.imgur.com/oN0t4nw.png"
             },
             {
-                "id": 3,
+                "id": "t3",
                 "sabor": "Guayaba",
                 "imagenSabor": "https://i.imgur.com/GMvWkzv.png"
             },
             {
-                "id": 4,
+                "id": "t4",
                 "sabor": "Piña",
                 "imagenSabor": "https://i.imgur.com/CEn2bpp.png"
             },
             {
-                "id": 5,
+                "id": "t5",
                 "sabor": "Pasas",
                 "imagenSabor": "https://i.imgur.com/J45fALf.png"
             },
             {
-                "id": 6,
+                "id": "t6",
                 "sabor": "Rajas",
                 "imagenSabor": "https://i.imgur.com/V09ndnD.png"
             }
         ],
         "bebida": [
             {
-                "id": 1,
+                "id": "b1",
                 "sabor": "Champurrado",
                 "imagenSabor": "https://i.imgur.com/8Ozi2d7.png"
             },
             {
-                "id": 2,
+                "id": "b2",
                 "sabor": "Arroz con Leche",
                 "imagenSabor": "https://i.imgur.com/9sLEWS5.png"
             },
             {
-                "id": 3,
+                "id": "b3",
                 "sabor": "Chocolate",
                 "imagenSabor": "https://i.imgur.com/uzW5HRg.png"
             },
             {
-                "id": 4,
+                "id": "b4",
                 "sabor": "Cafe",
                 "imagenSabor": "https://i.imgur.com/zFdj5zd.png"
             }
