@@ -13,7 +13,7 @@ module.exports = () => {
             "tipoSabor": "tamal",
             "sabor": "Verde",
             "imagen": "https://i.imgur.com/d6pZWfx.png",
-            "cantidad": 0
+            "cantidad": 1
         },
         {
             "id": 2,
@@ -24,7 +24,7 @@ module.exports = () => {
             "tipoSabor": "tamal",
             "sabor": "Mole",
             "imagen": "https://i.imgur.com/tyguOVl.png",
-            "cantidad": 0
+            "cantidad": 1
         },
         {
             "id": 3,
@@ -35,7 +35,7 @@ module.exports = () => {
             "tipoSabor": "tamal",
             "sabor": "Guayaba",
             "imagen": "https://i.imgur.com/KUmNnBE.png",
-            "cantidad": 0
+            "cantidad": 1
         },
         {
             "id": 4,
@@ -46,7 +46,7 @@ module.exports = () => {
             "tipoSabor": "tamal",
             "sabor": "Piña",
             "imagen": "https://i.imgur.com/LvqTDsV.png",
-            "cantidad": 0
+            "cantidad": 1
         },
         {
             "id": 5,
@@ -57,7 +57,7 @@ module.exports = () => {
             "tipoSabor": "tamal",
             "sabor": "Pasas",
             "imagen": "https://i.imgur.com/AWbJ84D.png",
-            "cantidad": 0
+            "cantidad": 1
         },
         {
             "id": 6,
@@ -68,7 +68,7 @@ module.exports = () => {
             "tipoSabor": "bebida",
             "sabor": "Champurrado",
             "imagen": "https://i.imgur.com/ponHz9P.png",
-            "cantidad": 0
+            "cantidad": 1
         },
         {
             "id": 7,
@@ -79,7 +79,7 @@ module.exports = () => {
             "tipoSabor": "bebida",
             "sabor": "Arroz con Leche",
             "imagen": "https://i.imgur.com/agIVB1f.png",
-            "cantidad": 0
+            "cantidad": 1
         },
         {
             "id": 8,
@@ -90,7 +90,7 @@ module.exports = () => {
             "tipoSabor": "bebida",
             "sabor": "Chocolate",
             "imagen": "https://i.imgur.com/mPDvTzX.png",
-            "cantidad": 0
+            "cantidad": 1
         },
         {
             "id": 9,
@@ -101,7 +101,7 @@ module.exports = () => {
             "tipoSabor": "bebida",
             "sabor": "Cafe",
             "imagen": "https://i.imgur.com/VCZLFyC.png",
-            "cantidad": 0
+            "cantidad": 1
         },
 
 
@@ -115,7 +115,7 @@ module.exports = () => {
             "tipoSabor": "tamal",
             "sabor": "Verde",
             "imagen": "https://i.imgur.com/DXF7NXF.png",
-            "cantidad": 0
+            "cantidad": 1
         },
         {
             "id": 11,
@@ -125,8 +125,8 @@ module.exports = () => {
             "nombreCorto": "Tamal de Mole",
             "tipoSabor": "tamal",
             "sabor": "Mole",
-            "imagen": "https://i.imgur.com/w0PGV4A.png",
-            "cantidad": 0
+            "imagen": "https://i.imgur.com/w1PGV4A.png",
+            "cantidad": 1
         },
         {
             "id": 12,
@@ -136,8 +136,8 @@ module.exports = () => {
             "nombreCorto": "Tamal de Guayaba",
             "tipoSabor": "tamal",
             "sabor": "Guayaba",
-            "imagen": "https://i.imgur.com/vAW014x.png",
-            "cantidad": 0
+            "imagen": "https://i.imgur.com/vAW114x.png",
+            "cantidad": 1
         },
         {
             "id": 13,
@@ -148,7 +148,7 @@ module.exports = () => {
             "tipoSabor": "tamal",
             "sabor": "Piña",
             "imagen": "https://i.imgur.com/7ll741z.png",
-            "cantidad": 0
+            "cantidad": 1
         },
         {
             "id": 14,
@@ -159,7 +159,7 @@ module.exports = () => {
             "tipoSabor": "tamal",
             "sabor": "Pasas",
             "imagen": "https://i.imgur.com/mCO47N7.png",
-            "cantidad": 0
+            "cantidad": 1
         }
     ],
     "sabores":[
@@ -173,7 +173,7 @@ module.exports = () => {
             {
                 "id": 2,
                 "sabor": "Mole",
-                "imagenSabor": "https://i.imgur.com/oN0t4nw.pngle"
+                "imagenSabor": "https://i.imgur.com/oN1t4nw.pngle"
             },
             {
                 "id": 3,
@@ -193,7 +193,7 @@ module.exports = () => {
             {
                 "id": 6,
                 "sabor": "Rajas",
-                "imagenSabor": "https://i.imgur.com/V09ndnD.png"
+                "imagenSabor": "https://i.imgur.com/V19ndnD.png"
             }
         ],
         "bebida": [
