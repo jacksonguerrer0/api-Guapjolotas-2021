@@ -173,7 +173,7 @@ module.exports = () => {
             {
                 "id": 2,
                 "sabor": "Mole",
-                "imagenSabor": "https://i.imgur.com/oN1t4nw.pngle"
+                "imagenSabor": "https://i.imgur.com/oN0t4nw.png"
             },
             {
                 "id": 3,
@@ -193,7 +193,7 @@ module.exports = () => {
             {
                 "id": 6,
                 "sabor": "Rajas",
-                "imagenSabor": "https://i.imgur.com/V19ndnD.png"
+                "imagenSabor": "https://i.imgur.com/V09ndnD.png"
             }
         ],
         "bebida": [
